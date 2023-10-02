@@ -14,7 +14,7 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: #497CE7;
 }
 .wrapper{
   background: #fff;
@@ -56,7 +56,7 @@ body{
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: #8E49E8;
+  background: black;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
@@ -79,7 +79,7 @@ body{
   position: relative;
   list-style: none;
   margin-bottom: 8px;
-  background: #f2f2f2;
+  background: #1E83EA;
   border-radius: 3px;
   padding: 10px 15px;
   cursor: default;
@@ -119,7 +119,7 @@ body{
   font-weight: 400;
   font-size: 16px;
   margin-left: 5px;
-  background: #8E49E8;
+  background: black;
   cursor: pointer;
   user-select: none;
   opacity: 0.6;
